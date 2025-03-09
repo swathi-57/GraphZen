@@ -117,6 +117,28 @@ public class AlgorithmController {
 | `POST` | `/algorithm/prim` | Run Prim’s algorithm
 
 
+## Demo
+<table style="font-weight:bold;" align="center">
+  <tr>
+    <td align="center">DFS</td>
+     <td align="center">IDDFS</td>
+  </tr>
+  <tr>
+    <td align="center"><img width="400px" src="https://media.giphy.com/media/H7f7EJhDl6b0Bjak1K/giphy.gif"></td>
+    <td align="center"><img width="400px" src="https://media.giphy.com/media/S8MtOaYjNEZIDtUhgb/giphy.gif"></td>
+  </tr>
+  <tr>
+    <td align="center">Dijkstra</td>
+     <td align="center">BFS</td>
+  </tr>
+  <tr>
+    <td align="center"><img width="400px" src="https://media.giphy.com/media/L1K4LMxTaZ68j2qLo4/giphy.gif"></td>
+    <td align="center"><img width="400px" src="https://media.giphy.com/media/XDGHPH6auW8L1xT3cg/giphy.gif"></td>
+  </tr>
+ </table>
+
+
+
 
 
 ### 🤝 Contributing
